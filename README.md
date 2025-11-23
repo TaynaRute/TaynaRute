@@ -4,19 +4,14 @@
 Me chamo Tayná Rute, tenho 17 anos e sou natural do Ceará. Estou concluindo o ensino médio na profissionalizante Escola Estadual de Educação Profissional Raimundo Célio Rodrigues, com o curso técnico em informática. Atualmente, planejo cursar Engenharia de Software na UFC. Sou apaixonada por tecnologia e estou aprendendo através de cursos como do coursera ou do curso em vídeo. No almejo me tornar uma engenheira de java.
 
 ### 🤖 Linguagens e Tecnologias
-
-<br/>
-<br/>
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
