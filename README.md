@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Tayná Rute
-**`Desenvolvedora FullStack`**
+**`Estudante de Java`**
 
 Me chamo Tayná Rute, tenho 17 anos e sou natural do Ceará. Estou concluindo o ensino médio na profissionalizante Escola Estadual de Educação Profissional Raimundo Célio Rodrigues, com o curso técnico em informática. Atualmente, planejo cursar Engenharia de Software na UFC. Sou apaixonada por tecnologia e estou aprendendo através de cursos como do coursera ou do curso em vídeo. No almejo me tornar uma engenheira de java.
 
