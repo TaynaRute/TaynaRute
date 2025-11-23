@@ -5,16 +5,17 @@ Me chamo Tayná Rute, tenho 17 anos e sou natural do Ceará. Estou concluindo o 
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <br/>
-
-<p>
-  <img 
+<br/>
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<br/>
 <br/>
 
 ### 📊 Estatísticas
